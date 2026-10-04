@@ -11,10 +11,11 @@
 - 🌱 Learning: lakehouse design, data quality automation and AI agents for data engineering.
 - 📫 Reach me at **adikshan11@gmail.com** · [Portfolio](https://adithya-shankaran.vercel.app) · [Resume](https://adithya-shankaran.vercel.app/Adithya_Shankaran_Resume.pdf)
 
-### Featured project
+### Featured projects
 
 | Project | What it shows |
 | --- | --- |
+| [uw-risk-copilot](https://github.com/adikshan11/uw-risk-copilot) · [live](https://uw-risk-copilot.vercel.app) · [dbt docs](https://adikshan11.github.io/uw-risk-copilot/) | AI underwriting on LangGraph + Gemini: RAG on Qdrant with cited guidelines, validated memos, human review, an eval suite (faithfulness, RAG recall, TOON vs JSON), Langfuse tracing, MCP and A2A, and a nightly dbt on DuckDB pipeline. Xebia capstone (team of three), production-hardened by me |
 | [lakehouse-dq-agent](https://github.com/adikshan11/lakehouse-dq-agent) | NYC taxi lakehouse on PySpark + Delta Lake, dbt marts, data quality gates and a rule-based profiler that proposes dbt tests |
 
 ### Connect with me
