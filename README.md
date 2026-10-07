@@ -1,4 +1,4 @@
-<a href="https://linkedin.com/in/adithya-shankaran"><img src="https://i.ibb.co/mSLNHJm/Adithya-Header-Github.png" alt="Adithya Shankaran" width="1000"></a>
+<a href="https://adithya-shankaran.vercel.app"><img src="./asset/banner.png" alt="Adithya Shankaran" width="100%"></a>
 
 <h1 align="center">Hi, I'm Adithya Shankaran</h1>
 <h3 align="center">Data Engineer at Xebia · Google Cloud · Apache Spark · dbt · Generative AI</h3>
