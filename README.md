@@ -15,7 +15,7 @@
 
 | Project | What it shows |
 | --- | --- |
-| [imaarat.ai](https://github.com/adikshan11/uw-risk-assessment) · [live](https://imaarat-ai.vercel.app) · [dbt docs](https://adikshan11.github.io/uw-risk-assessment/) | AI underwriting for Indian commercial property: checks every PIN code against open seismic, flood and cyclone data, reads hand-filled paper proposals with a human check, and works in 26 Indian languages. LangGraph + Gemini, RAG on Qdrant with cited guidelines, evals, Langfuse tracing, MCP and A2A, and a tested dbt pipeline. Xebia capstone (team of three), production-hardened by me |
+| [imaarat.ai](https://github.com/adikshan11/imaarat-ai) · [live](https://imaarat-ai.vercel.app) · [dbt docs](https://adikshan11.github.io/imaarat-ai/) | AI underwriting for Indian commercial property: checks every PIN code against open seismic, flood and cyclone data, reads hand-filled paper proposals with a human check, and works in 26 Indian languages. LangGraph + Gemini, RAG on Qdrant with cited guidelines, evals, Langfuse tracing, MCP and A2A, and a tested dbt pipeline. Xebia capstone (team of three), production-hardened by me |
 | [lakehouse-dq-agent](https://github.com/adikshan11/lakehouse-dq-agent) | NYC taxi lakehouse on PySpark + Delta Lake, dbt marts, data quality gates and a rule-based profiler that proposes dbt tests |
 
 ### Connect with me
